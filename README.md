@@ -1,4 +1,4 @@
-![Feitan GIF](https://media.tenor.com/Y_k2VtI74I8AAAAC/feitan.gif)
+![Feitan GIF](assets/feitan.gif)
 
 ---
 
