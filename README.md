@@ -1,4 +1,4 @@
-![Feitan GIF](assets/feitan.gif)
+![Feitan GIF](feitan.gif)
 
 ---
 
