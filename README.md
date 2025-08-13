@@ -4,8 +4,6 @@
 
 # My Tech Stack
 
-## Tech & Tools
-
 <p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
@@ -32,5 +30,5 @@
 
 <p align="center">
 <a href="https://www.behance.net/smilemella"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"></a>
-<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style-for-the-badge" alt="Portfolio"></a>
+<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-FF0000?style-for-the-badge" alt="Portfolio"></a>
 </p>
