@@ -1,4 +1,4 @@
-![Anime GIF]([https://your-image-link.gif](https://tenor.com/view/feitan-gif-20158886))  
+![Anime GIF](https://media.tenor.com/Y_k2VtI74I8AAAAC/feitan.gif)
 
 ---
 
