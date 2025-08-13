@@ -1,6 +1,8 @@
-![Feitan GIF](feitan.gif)
+<div style="text-align: center;">
 
----
+![Feitan GIF](feitan.gif | width=250)
+
+# My Tech Stack
 
 ## Tech & Tools
 
@@ -24,9 +26,9 @@
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
----
-
 ## Connect
 
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)]([https://www.behance.net/](https://www.behance.net/smilemella)) 
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/smilemella)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge)](https://your-portfolio-link.com)
+
+</div>
