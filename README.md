@@ -30,5 +30,5 @@
 
 <p align="center">
 <a href="https://www.behance.net/smilemella"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"></a>
-<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-FF0000?style-for-the-badge" alt="Portfolio"></a>
+<a href="https://www.behance.net/smilemella"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Portfolio"></a>
 </p>
