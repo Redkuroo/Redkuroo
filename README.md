@@ -61,8 +61,9 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Redkuroo&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Redkuroo&theme=dark&hide_border=true" />
 </div>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,8b0000,000000&height=6"/>
 </p>
