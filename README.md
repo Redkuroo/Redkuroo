@@ -35,9 +35,8 @@
 </div>
 
 ---<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=8b0000&height=90&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,8b0000,000000&height=6"/>
 </p>
-
 
 <h2 align="center">🔗 Connect</h2>
 
@@ -51,9 +50,8 @@
 </div>
 
 ---<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=8b0000&height=90&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,8b0000,000000&height=6"/>
 </p>
-
 
 <h2 align="center">📊 GitHub Stats</h2>
 
@@ -67,9 +65,8 @@
 </div>
 
 ---<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=8b0000&height=90&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,8b0000,000000&height=6"/>
 </p>
-
 
 <h2 align="center">📈 Activity</h2>
 
