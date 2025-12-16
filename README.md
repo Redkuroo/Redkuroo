@@ -61,7 +61,7 @@
 </div>
 
 <div align="center">
- ![Trophies](https://github-profile-trophy.vercel.app/?username=Redkuroo&theme=tokyonight&no-frame=true&row=1)
+ ![Stats](https://github-readme-stats.vercel.app/api?username=Redkuroo&show_icons=true&theme=tokyonight&hide_border=true)
 </div>
 
 <p align="center">
