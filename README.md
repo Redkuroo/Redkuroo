@@ -58,7 +58,6 @@
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Redkuroo&show_icons=true&theme=radical&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Redkuroo&layout=compact&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-profile-trophy.vercel.app/?username=Redkuroo&theme=tokyonight&no-frame=true&row=1&v=1" />
 </div>
 
 
