@@ -27,10 +27,10 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Figma-8B0000?style=for-the-badge&logo=figma&logoColor=red" />
+<img src="https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=red" />
 <img src="https://img.shields.io/badge/Photoshop-111111?style=for-the-badge&logo=adobe-photoshop&logoColor=black" />
-<img src="https://img.shields.io/badge/Git-8B0000?style=for-the-badge&logo=git&logoColor=red" />
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=red"/>
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=black" />
 
 </div>
 
