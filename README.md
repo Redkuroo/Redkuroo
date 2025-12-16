@@ -56,9 +56,10 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Redkuroo&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Redkuroo&layout=compact&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Redkuroo&show_icons=true&title_color=ff0000&text_color=c9c9c9&icon_color=ff0000&bg_color=0d1117&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Redkuroo&layout=compact&title_color=ff0000&text_color=c9c9c9&bg_color=0d1117&hide_border=true" />
 </div>
+
 
 
 <p align="center">
