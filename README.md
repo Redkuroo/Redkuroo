@@ -60,9 +60,7 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Redkuroo&layout=compact&theme=radical&hide_border=true" />
 </div>
 
-<div align="center">
  ![Stats](https://github-readme-stats.vercel.app/api?username=Redkuroo&show_icons=true&theme=tokyonight&hide_border=true)
-</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,8b0000,000000&height=6"/>
