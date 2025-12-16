@@ -34,7 +34,7 @@
 
 </div>
 
----<p align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,8b0000,000000&height=6"/>
 </p>
 
@@ -49,7 +49,7 @@
   </a>
 </div>
 
----<p align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,8b0000,000000&height=6"/>
 </p>
 
@@ -63,8 +63,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Redkuroo&theme=dark&hide_border=true" />
 </div>
-
----<p align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,8b0000,000000&height=6"/>
 </p>
 
