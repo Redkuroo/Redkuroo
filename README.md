@@ -85,9 +85,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Redkuroo&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Redkuroo&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Redkuroo&theme=tokyonight&no-frame=true&row=1" />
 </p>
 
