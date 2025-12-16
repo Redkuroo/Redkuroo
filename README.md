@@ -34,7 +34,10 @@
 
 </div>
 
----
+---<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=8b0000&height=90&section=footer"/>
+</p>
+
 
 <h2 align="center">🔗 Connect</h2>
 
@@ -47,7 +50,10 @@
   </a>
 </div>
 
----
+---<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=8b0000&height=90&section=footer"/>
+</p>
+
 
 <h2 align="center">📊 GitHub Stats</h2>
 
@@ -58,4 +64,17 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Redkuroo&theme=dark&hide_border=true" />
+</div>
+
+---<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=8b0000&height=90&section=footer"/>
+</p>
+
+
+<h2 align="center">📈 Activity</h2>
+
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Redkuroo&bg_color=0d1117&color=8b0000&line=ff0000&point=ffffff&area=true&hide_border=true"
+  />
 </div>
