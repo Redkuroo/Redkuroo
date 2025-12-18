@@ -35,7 +35,7 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,8b0000,000000&height=6"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=8b0000&height=6"/>
 </p>
 
 <h2 align="center">🔗 Connect</h2>
