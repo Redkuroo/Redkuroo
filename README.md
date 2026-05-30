@@ -69,7 +69,8 @@
 <h2 align="center">📈 Activity</h2>
 
 <div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Redkuroo&bg_color=0d1117&color=8b0000&line=ff0000&point=ffffff&area=true&hide_border=true"
-  />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Redkuroo&bg_color=transparent&color=8b0000&line=ff0000&point=8b0000&area=true&hide_border=true" 
+    alt="Redkuroo's GitHub Activity Graph" 
+  />
 </div>
