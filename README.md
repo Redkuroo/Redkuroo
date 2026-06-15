@@ -9,28 +9,28 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=red" />
-<img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=black" />
+<img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=red" />
 <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=red" />
-<img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=red" />
 <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=red" />
-<img src="https://img.shields.io/badge/React_Native-111111?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/React_Native-111111?style=for-the-badge&logo=react&logoColor=red" />
 <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js&logoColor=red" />
-<img src="https://img.shields.io/badge/Tailwind-111111?style=for-the-badge&logo=tailwind-css&logoColor=black" />
+<img src="https://img.shields.io/badge/Tailwind-111111?style=for-the-badge&logo=tailwind-css&logoColor=red" />
 <img src="https://img.shields.io/badge/Shopify_Liquid-111111?style=for-the-badge&logo=shopify&logoColor=red" />
 
 <br/>
 
 <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=red" />
-<img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=java&logoColor=black" />
+<img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=java&logoColor=red" />
 <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=red" />
-<img src="https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge&logoColor=red" />
 
 <br/>
 
 <img src="https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=red" />
-<img src="https://img.shields.io/badge/Photoshop-111111?style=for-the-badge&logo=adobe-photoshop&logoColor=black" />
+<img src="https://img.shields.io/badge/Photoshop-111111?style=for-the-badge&logo=adobe-photoshop&logoColor=red" />
 <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=red"/>
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=black" />
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=red" />
 
 </div>
 
