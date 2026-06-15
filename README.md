@@ -4,7 +4,7 @@
 
 ---
 
-<h2 align="center">⚔️ Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 <div align="center">
 
@@ -38,7 +38,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=8b0000&height=6"/>
 </p>
 
-<h2 align="center">🔗 Connect</h2>
+<h2 align="center">Connect</h2>
 
 <div align="center">
   <a href="https://www.behance.net/smilemella">
@@ -53,7 +53,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,8b0000,000000&height=6"/>
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Redkuroo&show_icons=true&title_color=ff0000&text_color=c9c9c9&icon_color=ff0000&bg_color=0d1117&hide_border=true" alt="Redkuroo's GitHub Stats" />
@@ -66,7 +66,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,8b0000,000000&height=6"/>
 </p>
 
-<h2 align="center">📈 Activity</h2>
+<h2 align="center">Activity</h2>
 
 <div align="center">
   <img 
