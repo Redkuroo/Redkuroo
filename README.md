@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="feitan.gif" alt="Feitan GIF" width="240" />
+  <img src="feitan.gif" alt="Feitan GIF" width="240" />
 </div>
 
 ---
@@ -35,35 +35,35 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=8b0000&height=6"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=8b0000&height=6"/>
 </p>
 
 <h2 align="center">🔗 Connect</h2>
 
 <div align="center">
-  <a href="https://www.behance.net/smilemella">
-    <img src="https://img.shields.io/badge/Behance-8B0000?style=for-the-badge&logo=behance&logoColor=white" />
-  </a>
-  <a href="https://smile-portfolio-v2.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=red" />
-  </a>
+  <a href="https://www.behance.net/smilemella">
+    <img src="https://img.shields.io/badge/Behance-8B0000?style=for-the-badge&logo=behance&logoColor=white" />
+  </a>
+  <a href="https://smile-portfolio-v2.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=red" />
+  </a>
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,8b0000,000000&height=6"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,8b0000,000000&height=6"/>
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Redkuroo&show_icons=true&title_color=ff0000&text_color=c9c9c9&icon_color=ff0000&bg_color=0d1117&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Redkuroo&layout=compact&title_color=ff0000&text_color=c9c9c9&bg_color=0d1117&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Redkuroo&show_icons=true&title_color=ff0000&text_color=c9c9c9&icon_color=ff0000&bg_color=0d1117&hide_border=true" alt="Redkuroo's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Redkuroo&layout=compact&title_color=ff0000&text_color=c9c9c9&bg_color=0d1117&hide_border=true" alt="Redkuroo's Top Languages" />
+  <br/>
+  <img height="165" src="https://streak-stats.demolab.com/?user=Redkuroo&hide_border=true&background=0d1117&ring=ff0000&fire=ff0000&stroke=ff0000&currStreakNum=c9c9c9&sideNums=c9c9c9&currStreakLabel=ff0000&sideLabels=c9c9c9&dates=c9c9c9" alt="Redkuroo's GitHub Streak" />
 </div>
 
-
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,8b0000,000000&height=6"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,8b0000,000000&height=6"/>
 </p>
 
 <h2 align="center">📈 Activity</h2>
