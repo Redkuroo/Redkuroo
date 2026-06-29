@@ -20,9 +20,11 @@
 
 <br/>
 
+<img src="https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=red" />
 <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=red" />
 <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=java&logoColor=red" />
 <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=red" />
+<img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=red" />
 <img src="https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge&logoColor=red" />
 
 <br/>
@@ -31,6 +33,13 @@
 <img src="https://img.shields.io/badge/Photoshop-111111?style=for-the-badge&logo=adobe-photoshop&logoColor=red" />
 <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=red"/>
 <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=red" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Claude-111111?style=for-the-badge&logo=anthropic&logoColor=red" />
+<img src="https://img.shields.io/badge/Copilot_Pro-111111?style=for-the-badge&logo=githubcopilot&logoColor=red" />
+<img src="https://img.shields.io/badge/ChatGPT-111111?style=for-the-badge&logo=openai&logoColor=red" />
+<img src="https://img.shields.io/badge/Gemini_Pro-111111?style=for-the-badge&logo=googlegemini&logoColor=red" />
 
 </div>
 
